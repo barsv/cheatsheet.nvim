@@ -5,3 +5,4 @@ Force open in floating window       | :Cheatsheet!
 Open user cheatsheet                | :CheatsheetEdit
 Open user cheatsheet from Telescope | <C-E>
 Toggle default cheatsheet Telescope | <C-D>
+Copy cheat into registers "" and 0  | <C-y>
