@@ -6,3 +6,4 @@ Open user cheatsheet                | :CheatsheetEdit
 Open user cheatsheet from Telescope | <C-E>
 Toggle default cheatsheet Telescope | <C-D>
 Copy cheat into registers "" and 0  | <C-y>
+Execute selected command            | <A-Enter>
